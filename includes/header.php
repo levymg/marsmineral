@@ -107,8 +107,8 @@ $keywords = '';
         <li><a href="links.php">Links</a></li>
         <li><a href="reps.php">Reps</a></li>
         <li><a href="news.php">News</a></li>
-        <li><a href="contact.php">Contact</a></li>
         <li><a href="careers.php">Careers</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 </div><!--main-nav-->
        
