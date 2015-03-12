@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#content { margin: 0; padding: 0; margin-top:70px;} 
+
+
+a#biomass img { border: none; position: relative; left: 290px; top: -80px;}
+
+#content { margin: 0; }
+
+#content ol { margin-left: 1em; }
+	#content ol li { margin-left: 1em; }
+	
+
+#content form ol li { list-style: none; margin: 0; padding: 0; }

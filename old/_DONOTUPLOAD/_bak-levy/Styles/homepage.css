@@ -1,0 +1,136 @@
+/* CSS Document */
+body {
+	margin:0px; 
+	padding:0px;
+	background-color:#fff;
+	background-image:url(../images/shell/bkgd.gif);
+	background-repeat:repeat-x;
+	}
+#container {
+	position:absolute;
+	left:50%;
+	width:800px;
+	height:660px;
+	top:0;
+	margin-left:-400px;
+	background-image:url(../images/shell/HPimage.jpg);
+	background-repeat:no-repeat;
+	}
+#container ul {
+	position:absolute;
+	margin-top:0px; 
+	padding-top:0px;
+	top:245px;
+	color:#A72C23;
+	list-style-type:none;
+	}
+#container a {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#A72C23;
+	text-decoration:none;
+	line-height:22px;
+	}
+#container a:visited {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#A72C23;
+	text-decoration:none;
+	line-height:22px;
+	}
+#container a:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:underline;
+	line-height:22px;
+	}
+#container a:active {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:underline;
+	line-height:22px;
+	}
+#container h1 {
+	display:none;
+	}
+#tradeshow {
+	position:relative;
+	margin-top:0px; 
+	padding-top:0px;
+	left:300px;
+	top:245px;
+	width:104px;
+	}
+#tradeshow h2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:none;
+	text-align:center;
+	}
+#tradeshow a {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:none;
+	text-align:center;
+	line-height:12px;
+	}
+#tradeshow a:visited {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:none;
+	text-align:center;
+	line-height:12px;
+	}
+#tradeshow a:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:underline;
+	text-align:center;
+	line-height:12px;
+	}
+#tradeshow a:active {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#016676;
+	text-decoration:underline;
+	text-align:center;
+	line-height:12px;
+	}
+#content {
+	position:absolute;
+	margin-top:0px; 
+	padding-top:0px;
+	left:477px;
+	top:245px;
+	width:300px;
+	}
+#content h2 {
+	margin-top:0px; 
+	padding-top:0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#A72C23;
+	}
+#content p {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:14px;
+	}
+#hp_bug { position: relative; left: 250px; top: 250px; margin-bottom: -180px;}
+	#hp_bug img{ border: none; }

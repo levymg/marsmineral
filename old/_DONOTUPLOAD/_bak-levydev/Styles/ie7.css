@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#content {
+	margin-top:0;
+	}
+
+a#biomass img { border: none; position: relative; left: 250px; top: -100px;}
+
+#content ol { margin-left: 20px; }
+	#content ol li { list-style: decimal; margin-left: 1em;}
+#content form ol li {  list-style: none; }
+
+fieldset.small_labels ol { width: 500px; border: solid 1px #666; clear: both; overflow: auto; padding-bottom: .5em;}	
+	fieldset.small_labels ol li { width: 110px; float: left; clear: none; border-right: 1px solid #666; height: 30px; }
+fieldset.small_labels ol li label { width: 30px; font-size: 1em; text-align: left; border: none;}

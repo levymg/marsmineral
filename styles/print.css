@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background: white;font: 12pt "Times New Roman", Times, serif;}
+#header, #hp-banner, #nav, #footer, .banner-buttons, .video, #nav-toggle, #tagline, .cmxform, .col-right {display:none;}
+.printfriendly {display:block;}
+.printonly {display:block;}
+h1 a, h2 a, h3 a, h4 a {text-decoration:none;color:#000;}
+h1 {font-size:18pt;}
+h2, h4 {font-size:16pt;}
+#container, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+div#content {padding-top: 1em;}
+a:link, a:visited {color: #0164a8;background: transparent;font-weight: bold;text-decoration: underline;}
+th, td {border:solid 1px #000;}

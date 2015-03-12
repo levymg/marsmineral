@@ -1,0 +1,45 @@
+/*! responsive-nav.js v1.0.15 by @viljamis */
+
+#nav ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: block;
+  list-style: none;
+}
+
+#nav li {
+  width: 100%;
+  display: block;
+}
+
+.js #nav {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+#nav.opened {
+  max-height: 9999px;
+}
+
+#nav-toggle, #nav li a {
+	display:block;width:100%;background:#016674;color:#fff;padding:.35em 0 !important;font-size:1.13em;text-align:center;border-bottom:solid 1px #fff;
+}
+
+#nav-toggle {background:#00515c;}
+
+@media screen and (min-width: 569px) {
+  .js #nav {
+    position: relative;
+  }
+  .js #nav.closed {
+    max-height: none;
+  }
+  #nav-toggle {
+    display: none;
+  }
+}

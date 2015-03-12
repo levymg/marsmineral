@@ -1,0 +1,5 @@
+#Force SSL on a specific directory
+RewriteEngine On
+RewriteBase /
+RewriteCond %{ENV:HTTPS} !on [NC]
+RewriteRule ^(.*)$ https://WWW.MARSMINERAL.COM/secure/ [R,L]
